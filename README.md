@@ -2,6 +2,8 @@
 The Cat-Themed console for hacking & prototyping!  
 *Learn more at [DevKitty.io](https://devkitty.io)*
 
+![](assets/v0.0-CutieCat.png)
+
 ## Version
 **Current Version**: `v0.0`
 
