@@ -1,3 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "Nugget-Modules")(type "KiCad")(uri "${KIPRJMOD}/Nugget-Modules.pretty")(options "")(descr ""))
+  (lib (name "CutieCat")(type "KiCad")(uri "${KIPRJMOD}/CutieCat.pretty")(options "")(descr ""))
 )

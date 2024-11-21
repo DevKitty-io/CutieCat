@@ -5,7 +5,10 @@ The Cat-Themed console for hacking & prototyping!
 ![](assets/v0.0-CutieCat.png)
 
 ## Version
-**Current Version**: `v0.0`
+**PCB Version**: `v0.0`
+**Case Version**: `v0.1`
+- TOP: Added + extra snap points, SMA cutouts
+- BOTTOM: Taller design, inside rails
 
 ## Components
 |Name|Details|Number|
@@ -15,3 +18,6 @@ The Cat-Themed console for hacking & prototyping!
 |Buttons|D-Pad Style, `3x6x2.5` mm|4|
 |RGB LED|WS2181B "NeoPixel"|1|
 |Expansion Header|8-Pin Female 2.54mm|1|
+
+## To-Do
+- Keychain Mod
