@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "v3.0.1-Dev-Kit-rescue")(type "Legacy")(uri "${KIPRJMOD}/v3.0.1-Dev-Kit-rescue.lib")(options "")(descr ""))
+  (lib (name "CutieCat")(type "KiCad")(uri "${KIPRJMOD}/CutieCat.kicad_sym")(options "")(descr ""))
+)

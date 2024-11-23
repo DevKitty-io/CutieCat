@@ -2,16 +2,17 @@
 The Cat-Themed console for hacking & prototyping!  
 *Learn more at [DevKitty.io](https://devkitty.io)*
 
-![](assets/img/v1.0-CutieCat.png)
+![](assets/img/v1.0-CutieCat_F.png)
 
 ## Version
-**PCB Version**: `v1.0`
+**PCB Version**: `v1.0`  
 **Case Version**: `v1.0`
 (Case version main numbers are updated with PCB main versions).
 
 ## Content
-- **pcb**: KiCAD PCB design files
-- **cases**: FreeCAD enclosure design files
+- **src**
+   - **pcb**: KiCAD PCB design files
+   - **cases**: FreeCAD enclosure design files
 - **exports**: ready to order / print files
 - **assets**: board outline, graphic art for design, renders
 
