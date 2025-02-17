@@ -14,9 +14,10 @@ Build your own Cat-Themed console for hacking & prototyping, based around the [A
    - Hackster Special Edition
    - Regular  
 
-**Case Version**: `v1.0`
-(Case version main numbers are updated with PCB main versions).
-
+**Case Version**: `r1.1`
+(Case version main numbers are updated with PCB main versions, and use `r` to denote revision).
+   - Increased header margin
+   
 ## Content
 - **src**
    - **pcb**: KiCAD PCB design files
@@ -38,8 +39,13 @@ Build your own Cat-Themed console for hacking & prototyping, based around the [A
 - Remove crowded headers
 - Move screen + buttons up (for case margin)
 
+#### v1.1 Changes:
+- Annotate Step #2 + Optional Tape
+- Change buttons (better tactile feel through 3DP case)
+- 
+
 #### To-Do:
-- [ ] `v1.1` **PCB**: move expansion header
 - [ ] `v1.1` **Case**: stronger snap point
 - [ ] `v1.1` **Case**: improve printability, SMA cutouts
-- [ ] `v1.1` **Case**: header case design
+- [x] `v1.1` **Case**: header case design
+- [ ] `v1.1` **Case**: pub on v1.x
