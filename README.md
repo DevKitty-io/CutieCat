@@ -1,12 +1,13 @@
 # CutieCat
-Build your own Cat-Themed console for hacking & prototyping, based around the [Adafruit QT-PY]() microcontroller!
-*Learn more at [DevKitty.io](https://devkitty.io)*
+Build your own Cat-Themed console for hacking & hardware prototyping, based around the [Adafruit QT-PY]() microcontroller!
+*Learn more at [DevKitty.io](https://devkitty.io)*.
 
 <!-- ![](assets/img/v1.0-CutieCat_F.png) -->
 
-#### Resources:
+#### Quick Resources:
 - [Assembly Guide](https://hackster.io)
-- [Product Docs](https://docs.devkitty.io/cutiecat)
+- [Usage Docs](https://docs.devkitty.io/cutiecat)
+- [Design Choices](#design-choices)
 
 ## Version
 ### Change Log
@@ -33,10 +34,12 @@ Build your own Cat-Themed console for hacking & prototyping, based around the [A
    
 ## Contents
 - **src**
-   - **pcb**: KiCAD PCB design files
+   - **pcb**: KiCAD PCB design files **
    - **cases**: FreeCAD enclosure design files
-- **exports**: ready to order / print files
+- **exports**: ready to print enclosures
 - **assets**: board outline, graphic art for design, renders
+
+***If you wish to order PCB's, you'll have to export them yourself*
 
 ## Circuit Board
 CutieCat is designed to be accessible & affordable for beginners - whether you want to get started soldering or hacking!  The design uses off-the-shelf components available on Amazon, and you can even [fabricate the PCB](https://pcbway.com) yourself. 
@@ -53,6 +56,8 @@ CutieCat is designed to be accessible & affordable for beginners - whether you w
 |---|---|---|
 |Buttons|`5.3 x 5.3 x 1.5` Tactile Buttons|4|
 |RGB LED|SK6812 "NeoPixel"|1|
+|SD Card|Push-Push Style|1|
+|Qwiic-Style Exansion|JST SH SM04B|2|
 
 ### Design Choices
 *pictures coming*
